@@ -8,8 +8,8 @@ The problem statement is to create a Streamlit application that allows users to 
 
 Technologies used :
 
-Python.org
-MongoDB.com
+Python
+MongoDB
 PostgreSQL
 YouTube Data API
 Streamlit
